@@ -1,0 +1,11 @@
+Server:
+
+step 1 : go to mongodb atlas https://cloud.mongodb.com/
+step 2 : go to conection change IP
+
+-> npm start
+
+
+App: 
+
+-> ng serve
